@@ -26,8 +26,6 @@ setup(
     install_requires=[
         "chex",
         "flax",
-        "jax",
-        "jaxlib",
         "optax",
         "numpy",
         "ml-collections",
